@@ -21,20 +21,20 @@
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
 /*selector for sapphire goes here */
-
+#sapphire {
   position: absolute;
   z-index: 5;
-  top: 315px;
+  top: 300px;
   left: 275px;
 }
 
 /* Select the image with the class "yellow_diamond" */
 
 /*selector for yellow diamond goes here */ 
-#yellow_diamond{
+.yellow_diamond{
   position: absolute;
   z-index: 4;
-  top: 325px;
+  top: 300px;
   left: 200px;
 }
 
