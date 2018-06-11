@@ -11,11 +11,10 @@
 /* Select the image with class of emerald */
 
 /*selector for emerald goes here */  
-{
-
-  position: absolute;
+#emerald {
+ position: absolute;
   z-index: 2;
-  top: 350px;
+  top: 300px;
   left: 369px;
 }
 
